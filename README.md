@@ -1,2 +1,2 @@
 # dotSOMM
-dotSOMM: Using AI to create the next generation in interactive wine education
+dotSOMM: Using AI to create the next generation of interactive wine education
